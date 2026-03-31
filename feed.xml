@@ -17,7 +17,7 @@
       <itunes:name>QA Pulse</itunes:name>
       <itunes:email>podcast@example.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://example.com/qa-pulse/cover.jpg" />
+    <itunes:image href="https://azalesky93-cmyk.github.io/qa-pulse/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
       <title>AI Revolutionizes QA Testing in 2026</title>
