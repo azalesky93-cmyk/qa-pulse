@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>QA Pulse</title>
     <link>https://azalesky93-cmyk.github.io/qa-pulse</link>
     <description>QA Pulse is your weekly briefing on the software testing and quality assurance industry. Every Monday, AI scans the latest news so you don't have to — delivering sharp insights on test automation, tooling, AI in QA, and emerging trends. Stay sharp, stay current, and start your week ahead of the curve.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 02:26:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 02:49:00 GMT</lastBuildDate>
     <generator>QA Pulse Podcast Maker</generator>
-    <atom:link href="https://azalesky93-cmyk.github.io/qa-pulse/feed.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom" />
+    <atom:link href="https://azalesky93-cmyk.github.io/qa-pulse/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>QA Pulse</itunes:author>
     <itunes:subtitle>QA Pulse is your weekly briefing on the software testing and quality assurance industry.</itunes:subtitle>
     <itunes:summary>QA Pulse is your weekly briefing on the software testing and quality assurance industry. Every Monday, AI scans the latest news so you don't have to — delivering sharp insights on test automation, tooling, AI in QA, and emerging trends. Stay sharp, stay current, and start your week ahead of the curve.</itunes:summary>
@@ -19,6 +19,24 @@
     </itunes:owner>
     <itunes:image href="https://example.com/qa-pulse/cover.jpg" />
     <itunes:category text="Technology" />
+    <item>
+      <title>QA Pulse - 2026-03-30</title>
+      <description>Welcome to QA Pulse, I'm your host Alex, and I'm excited to have you all tuning in today. Whether you're a seasoned tester or just starting out, we've got the latest news and insights from the world of software testing, and I'm looking forward to sharing them with you.
+
+First off, let's talk about the growing presence of AI in our industry. It's no secret that AI is revolutionizing the way we approach testing, and this year is shaping up to be a game-changer. Top AI agents are being developed to...</description>
+      <pubDate>Tue, 31 Mar 2026 02:49:00 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/azalesky93-cmyk/qa-pulse/output/qa_pulse_2026-03-30.mp3</guid>
+      <link>https://github.com/azalesky93-cmyk/qa-pulse/output/qa_pulse_2026-03-30.mp3</link>
+      <enclosure url="https://github.com/azalesky93-cmyk/qa-pulse/output/qa_pulse_2026-03-30.mp3" length="1845696" type="audio/mpeg" />
+      <itunes:title>QA Pulse - 2026-03-30</itunes:title>
+      <itunes:author>QA Pulse</itunes:author>
+      <itunes:summary>Welcome to QA Pulse, I'm your host Alex, and I'm excited to have you all tuning in today. Whether you're a seasoned tester or just starting out, we've got the latest news and insights from the world of software testing, and I'm looking forward to sharing them with you.
+
+First off, let's talk about the growing presence of AI in our industry. It's no secret that AI is revolutionizing the way we approach testing, and this year is shaping up to be a game-changer. Top AI agents are being developed to...</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:06:00</itunes:duration>
+      <itunes:image href="https://github.com/azalesky93-cmyk/qa-pulse/output/qa_pulse_2026-03-30.jpg" />
+    </item>
     <item>
       <title>QA Pulse - 2026-03-30</title>
       <description>Welcome to QA Pulse, I'm your host Alex, and I'm excited to have you all back for another episode. We've got a fantastic lineup of stories for you today, so let's dive right in. As we've been seeing for a while now, artificial intelligence is revolutionizing the future of QA testing, and this year is no exception. In fact, top AI agents are being hailed as game-changers for the industry, and it's easy to see why. With the ability to automate testing, reduce manual labor, and increase efficiency,...</description>
