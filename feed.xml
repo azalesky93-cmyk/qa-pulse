@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QA Pulse</title>
+    <link>https://example.com/qa-pulse/output</link>
+    <description>Weekly software testing and QA industry news for testers who want to stay on the cutting edge.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Mar 2026 02:26:38 GMT</lastBuildDate>
+    <generator>QA Pulse Podcast Maker</generator>
+    <atom:link href="https://example.com/qa-pulse/output/feed.xml" rel="self" type="application/rss+xml" xmlns:atom="http://www.w3.org/2005/Atom" />
+    <itunes:author>QA Pulse</itunes:author>
+    <itunes:subtitle>Weekly software testing and QA industry news for testers who want to stay on the cutting edge.</itunes:subtitle>
+    <itunes:summary>Weekly software testing and QA industry news for testers who want to stay on the cutting edge.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:language>en</itunes:language>
+    <itunes:owner>
+      <itunes:name>QA Pulse</itunes:name>
+      <itunes:email>podcast@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://example.com/qa-pulse/cover.jpg" />
+    <itunes:category text="Technology" />
+    <item>
+      <title>QA Pulse - 2026-03-30</title>
+      <description>Welcome to QA Pulse, I'm your host Alex, and I'm excited to have you all back for another episode. We've got a fantastic lineup of stories for you today, so let's dive right in. As we've been seeing for a while now, artificial intelligence is revolutionizing the future of QA testing, and this year is no exception. In fact, top AI agents are being hailed as game-changers for the industry, and it's easy to see why. With the ability to automate testing, reduce manual labor, and increase efficiency,...</description>
+      <pubDate>Tue, 31 Mar 2026 02:26:38 GMT</pubDate>
+      <guid isPermaLink="false">https://example.com/qa-pulse/output/qa_pulse_2026-03-30.mp3</guid>
+      <link>https://example.com/qa-pulse/output/qa_pulse_2026-03-30.mp3</link>
+      <enclosure url="https://example.com/qa-pulse/output/qa_pulse_2026-03-30.mp3" length="1773120" type="audio/mpeg" />
+      <itunes:title>QA Pulse - 2026-03-30</itunes:title>
+      <itunes:author>QA Pulse</itunes:author>
+      <itunes:summary>Welcome to QA Pulse, I'm your host Alex, and I'm excited to have you all back for another episode. We've got a fantastic lineup of stories for you today, so let's dive right in. As we've been seeing for a while now, artificial intelligence is revolutionizing the future of QA testing, and this year is no exception. In fact, top AI agents are being hailed as game-changers for the industry, and it's easy to see why. With the ability to automate testing, reduce manual labor, and increase efficiency,...</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:06:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
